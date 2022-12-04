@@ -1,4 +1,4 @@
-# Barbearia Alura
+# Alura Books
 
 Projeto desenvolvido ao decorrer das aulas do curso de HTML e CSS da Alura. O projeto conta com páginas responsivas e personalizdas para  diferentes tipos de telas, estilizações, estruturação por tags informativas que ditam as regras das páginas, idioma, fonte e estilo.
 
